@@ -19,6 +19,9 @@ Conversely, the aggressive strategy is focused on minimizing false negatives. In
 The repository is organized as follows:
 
 *data: This directory contains the dataset obtained from Kaggle.
+
 *notebooks: This directory houses Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
+
 *src: The source code for the classification model is stored in this directory. It includes modules for data preprocessing, feature engineering, model training, and evaluation.
+
 *reports: This directory contains any reports or visualizations generated during the analysis.
