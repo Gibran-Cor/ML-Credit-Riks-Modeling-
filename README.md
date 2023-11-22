@@ -9,10 +9,10 @@ The central challenge addressed in this project is to develop a classification m
 **Project Strategies**
 We approach the problem with two distinct strategies:
 
-**Conservative Strategy:**
+- **Conservative Strategy:**
 In the conservative strategy, the emphasis is on minimizing false positives. This means that the model should be designed to avoid incorrectly classifying non-defaulters as defaulters. The conservative strategy is geared towards risk aversion, prioritizing the identification of customers who are unlikely to default.
 
-  **Aggressive Strategy:**
+-  **Aggressive Strategy:**
 Conversely, the aggressive strategy is focused on minimizing false negatives. In this approach, the model is designed to be more permissive, potentially accepting a higher rate of false positives in exchange for correctly identifying customers who are likely to default. The aggressive strategy is geared towards capturing potential defaulters more comprehensively.
 
   **Repository Structure**
