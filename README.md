@@ -1,4 +1,4 @@
-
+![investing-4013413_1280](https://github.com/Gibran-Cor/ML-Credit-Riks-Modeling-/assets/142538044/b9cb96e6-a4e2-40cc-a40c-f1ab7e3178fe)
 # ML-Credit-Riks-Modeling-
 **Overview**
 This GitHub repository contains the code and resources for a project focused on predicting the probability of default for credit card customers. The dataset used in this project is sourced from Kaggle and comprises information on 459,000 customers. The primary objective is to build a robust classification model that can assist in predicting whether a customer is likely to default on their credit card.
